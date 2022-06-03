@@ -2,6 +2,8 @@
 Application to detect _reference face_ in Youtube Videos. Helpful for finding and flagging copyrighted content. <br><br>
 YouTube demo: https://youtu.be/z_QEEMdM1oU
 
+Hackathon submission link: https://devpost.com/software/copycatch
+
 ## Steps to use the application:
 1) Open the Colab Notebook from this repository (CopyCatch_🎣.ipynb) or using this [link](https://colab.research.google.com/drive/1nRiQJ0cmxGXWeDlMslww90_JgSNueCSp?usp=sharing).
 
